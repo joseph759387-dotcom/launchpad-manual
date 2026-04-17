@@ -1,3 +1,4 @@
+} #'$',") !-bash
 .. meta::
    :description: Official documentation for Launchpad users and developers.
 
